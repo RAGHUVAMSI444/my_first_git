@@ -1,0 +1,3 @@
+lineplot,barplot,scatterplot,regplot,lmplot
+
+Read seaborn docs for univariate,bivariate,categorical plots
